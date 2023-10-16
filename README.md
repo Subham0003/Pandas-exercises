@@ -1,2 +1,2 @@
 # Pandas-exercises
-keeping here all the exercises performed by pandas
+keeping here all the exercises using pandas library.
